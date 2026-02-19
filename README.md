@@ -10,6 +10,10 @@ End-to-end pipeline for GitHub repository metrics analysis and forecasting. Inge
 - **Deployment:** Flask microservice, React frontend, Docker on Google Cloud Run
 - **CI/CD:** Rebuild, retrain, redeploy when new data arrive
 
+## Architecture
+
+![Architecture](docs/architecture.png)
+
 ## Repositories Tracked
 
 | Repository |
@@ -28,9 +32,6 @@ End-to-end pipeline for GitHub repository metrics analysis and forecasting. Inge
 **Prerequisites:** Python 3.8+, [GitHub Personal Access Token](https://github.com/settings/tokens)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Time-Series-Forecasting.git
-cd Time-Series-Forecasting
-
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 # source .venv/bin/activate   # macOS/Linux
@@ -46,14 +47,14 @@ jupyter notebook GitHub_Repos_Issues_Forecasting_clean.ipynb
 
 Run all cells to fetch data and generate forecasts.
 
-## Project Structure
+<!-- ## Project Structure
 
 ```
 Time-Series-Forecasting/
 ├── GitHub_Repos_Issues_Forecasting_clean.ipynb
 ├── requirements.txt
 └── README.md
-```
+``` -->
 
 ## Notebook Sections
 
