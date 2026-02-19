@@ -1,0 +1,17 @@
+# GitHub API
+PyGithub>=2.0.0
+github3.py>=4.0.0
+
+# Data & visualization
+pandas>=1.4.0
+numpy>=1.22.0
+matplotlib>=3.5.0
+
+# HTML parsing
+beautifulsoup4>=4.10.0
+
+# Forecasting
+tensorflow>=2.10.0
+prophet>=1.1.0
+statsmodels>=0.13.0
+scikit-learn>=1.0.0
