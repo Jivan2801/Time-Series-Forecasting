@@ -57,8 +57,6 @@ Create a `.env` file:
 GITHUB_TOKEN=ghp_your_token_here
 ```
 
-> ⚠️ Never commit your token. `.env` is gitignored.
-
 ### Run
 
 ```bash
