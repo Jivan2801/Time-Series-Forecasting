@@ -106,6 +106,3 @@ Time-Series-Forecasting/
 
 ---
 
-## License
-
-MIT
