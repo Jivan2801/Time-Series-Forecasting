@@ -12,7 +12,7 @@ End-to-end pipeline for GitHub repository metrics analysis and forecasting. Inge
 
 ## Architecture
 
-![Architecture](docs/architecture.png)
+![Architecture](docs/architecture1.png)
 
 ## Repositories Tracked
 
