@@ -69,3 +69,7 @@ Time-Series-Forecasting/
 ## Tech Stack
 
 Python, NumPy, Pandas, TensorFlow/Keras, Prophet, StatsModels, Matplotlib, Flask, React.js, Docker, Google Cloud Platform
+
+## Impact
+
+Enables repository maintainers to anticipate issue volume, PR flow, and contributor activity. Supports resource planning and capacity decisions. Delivers up-to-date forecasts through automated CI/CD whenever new data arrive.
