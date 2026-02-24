@@ -73,3 +73,7 @@ Python, NumPy, Pandas, TensorFlow/Keras, Prophet, StatsModels, Matplotlib, Flask
 ## Impact
 
 Enables repository maintainers to anticipate issue volume, PR flow, and contributor activity. Supports resource planning and capacity decisions. Delivers up-to-date forecasts through automated CI/CD whenever new data arrive.
+
+## License
+
+MIT
